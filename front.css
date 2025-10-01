@@ -1,0 +1,32 @@
+*{
+    background-color: azure;
+}
+
+h1{
+    text-align: center;
+}
+
+#boxes{
+    display:flex;
+    padding:50px 50px;
+    justify-content: center;
+    gap: 10px;
+}
+.box {
+    padding:45px 45px;
+    border:2px solid black;
+}
+
+#last{
+    text-align: center;
+}
+
+#last input{
+font-size: 20px;
+border-radius: 3px;
+}
+
+#last button{
+    font-size: 20px;
+    border-radius:3px ;
+}
